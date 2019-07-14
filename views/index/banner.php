@@ -1,0 +1,1 @@
+<div id="top_banner"><img alt="بنر تبلیغاتی" src="public/images/content-images/banner.jpg"></div>
